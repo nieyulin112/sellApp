@@ -1,0 +1,46 @@
+{
+    "resultCode": "000000",
+    "result": [{
+        "productName": "挂号服务费用补偿保险-至尊版",
+        "insureName": "挂号服务费用补偿保险-至尊版",
+        "insureCount": "1",
+        "effectiveDate": "2016.05.25",
+        "expDate": "2016.08.15",
+        "ensureAmount": "78",
+        "orderStatus": "0",
+        "addtionalInsured": "10,50,40,99",
+        "durationUnit": "Y",
+        "duration": "1",
+        "holderName": "尼古拉斯古奇",
+        "insuredName": "古奇他妈",
+        "supplierName": "易安保险"
+        }, {
+        "productName": "挂号服务费用补偿保险-至尊版",
+        "insureName": "挂号服务费用补偿保险-至尊版",
+        "insureCount": "1",
+        "effectiveDate": "2016.05.25",
+        "expDate": "2016.08.15",
+        "ensureAmount": "78",
+        "orderStatus": "2",
+        "addtionalInsured": "10,50,40,99",
+        "durationUnit": "Y",
+        "duration": "1",
+        "holderName": "尼古拉斯古奇",
+        "insuredName": "古奇他妈",
+        "supplierName": "易安保险"
+        }, {
+        "productName": "挂号服务费用补偿保险-至尊版",
+        "insureName": "挂号服务费用补偿保险-至尊版",
+        "insureCount": "1",
+        "effectiveDate": "2016.05.25",
+        "expDate": "2016.08.15",
+        "ensureAmount": "78",
+        "orderStatus": "0",
+        "addtionalInsured": "10,50,40,99",
+        "durationUnit": "Y",
+        "duration": "1",
+        "holderName": "尼古拉斯古奇",
+        "insuredName": "古奇他妈",
+        "supplierName": "易安保险"
+        }]
+}

@@ -1,0 +1,27 @@
+{
+    "result": {
+        "memberDocs": [{
+            "id": "0",
+            "name": "周杰伦",
+            "age": 12,
+            "sex": "男"
+        }, {
+            "id": "2",
+            "name": "那英",
+            "age": 12,
+            "sex": "男"
+        }, {
+            "id": "3",
+            "name": "汪峰",
+            "age": 12,
+            "sex": "男"
+        }, {
+            "id": "4",
+            "name": "庾澄庆",
+            "age": 12,
+            "sex": "男"
+        }],
+        "hasCheckRecord": false
+    },
+    "resultCode": "000000"
+}

@@ -1,0 +1,36 @@
+{
+    "resultCode": "000000",
+    "result": {
+        "pageResult": [
+            {
+                "hospNum": "400000331",
+                "hospName": "郑州市中心医院"
+            },
+            {
+                "hospNum": "400000332",
+                "hospName": "杨浦区中心医院"
+            },
+            {
+                "hospNum": "400000333",
+                "hospName": "南昌中心第一医院"
+            },
+            {
+                "hospNum": "400000334",
+                "hospName": "南昌中心南昌中心南昌中心南昌中心附属医院"
+            },
+            {
+                "hospNum": "400000335",
+                "hospName": "南昌中心儿科医院"
+            },
+            {
+                "hospNum": "400000336",
+                "hospName": "南昌中心骨科医院"
+            }
+        ],
+        "pageCount": 1,
+        "currentPage": 0,
+        "totalCount": 2,
+        "pageNum": "1"
+    },
+    "msg": "成功"
+}
